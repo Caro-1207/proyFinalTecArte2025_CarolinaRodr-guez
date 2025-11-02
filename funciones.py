@@ -1,8 +1,11 @@
 def triangulo(b,h):
-	areat = (b * h)/2
+	area = (b * h)/2
+	return area
 
 def rectangulo(b,h):
-	arear = b*h
+	area = b*h
+	return area
 
 def circulo(r):
-	areac = (r**2) * 3.1416
+	area = (r**2) * 3.1416
+	return area 
